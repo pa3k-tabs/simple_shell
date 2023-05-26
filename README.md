@@ -1,0 +1,2 @@
+readme for simple shell
+
